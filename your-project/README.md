@@ -46,11 +46,11 @@ Our final database was obtaind by joining the two tables mentioned above by the 
 ## Organization
 We used a Trello Board to organize our project keep track or our progress thourgh the week. 
 
-The repository is composed of two folders ........
+The repository is composed of two jupyter notebook files, one for each of the datasets studied. In the folder "Paper" there is the final project report, as well as images from the visualizations and final Tableau file. 
 
 ## Links
 
 [Repository](https://github.com/ErwanDB/Project-Week-3-Data-Thieves/tree/master/your-project)  
-[Slides](https://slides.com/)  - complete
+[Slides](https://www.canva.com/design/DAECKfzedfc/Yp4zsYq14Zl6uzwz4AZSsw/edit#)
 [Trello](https://trello.com/b/kbNCWdlU/project-week-3) 
 [Tableau](https://public.tableau.com/profile/alba5402#!/vizhome/Winesdatavisualization/Top5MostExpensiveWines)
