@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Fantastic Wines and How to Choose Them
+*Alba Balcells, Erwan de Boisjolly, Marta Palleiro*
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics FT Barcelona, June 2020*
 
 ## Content
 - [Project Description](#project-description)
@@ -15,28 +15,42 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+By analyzing a dataset on wine reviews and wine exports, this project aims to provide some insights on the wine industry, with a special focus on price vs quality in Spain. 
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+While looking for a subject to our project, we came accross a wine review dataset on Kaggle. Some questions came out of our mind such as:
+
+- What makes a good wine ?
+- Where is the most expensive wine from ?
+- What is the country that export the most wines ?
+- What is the consumption pattern of wine by country ?
+
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+- Dataset of wine reviews from 2017 available on [Kaggle](https://www.kaggle.com/zynicide/wine-reviews): Dataset with >100,000 wine reviews. For each review, the following variable are specified: country, rating, designation.
+- Dataset of wine exports by country, obtained trough [web scraping](http://www.worldstopexports.com/wine-exports-country/): information on country, and value and growth of wine exports ($).
+
 
 ## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other?
+Our final database was obtaind by joining the two tables mentioned above by the common variable "country". 
+
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+- Choose project topic
+- Questions about topic
+- Plan project
+- Data cleaning (most of the time!)
+- Visualizations of the data
+- Paper and presentation
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+We used a Trello Board to organize our project keep track or our progress thourgh the week. 
 
-What does your repository look like? Explain your folder and file structure.
+The repository is composed of two folders ........
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/ErwanDB/Project-Week-3-Data-Thieves/tree/master/your-project)  
+[Slides](https://slides.com/)  - complete
+[Trello](https://trello.com/b/kbNCWdlU/project-week-3) 
+[Tableau](https://public.tableau.com/profile/alba5402#!/vizhome/Winesdatavisualization/Top5MostExpensiveWines)
